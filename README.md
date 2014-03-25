@@ -1,6 +1,8 @@
 
- Light RolePlay
--Info-
+*** Light RolePlay ***
+
+- Info -
+
 LightRP is a basic roleplay extension for Quake and QuakeWorld, which aims to be easily customizable
 for server admins and players. Included are a range of jobs and tools to help you roleplay
 in this gamemode inspired by DarkRP.
@@ -8,7 +10,8 @@ in this gamemode inspired by DarkRP.
 You get paid every 160 seconds with a salary matching your job.
 You can own and disown doors to make property become yours. You can lock these aswell.
 
--Jobs-
+- Jobs -
+
 (Name, Weapons, Description)
 
 + Citizen
@@ -29,13 +32,17 @@ You can own and disown doors to make property become yours. You can lock these a
 Default weapons: Keys, Axe
 Everyone has got the default weapons. An Axe is always great for self defense.
 
--Controls-
+- Controls -
+
 F1: Displays Statistics
 ![alt tag](https://raw.githubusercontent.com/eukos16/LightRP/master/gfx/men03.gif)
+
 F2: Function Menu
 ![alt tag](https://raw.githubusercontent.com/eukos16/LightRP/master/gfx/men01.gif)
+
 F3: Job Selection Menu
 ![alt tag](https://raw.githubusercontent.com/eukos16/LightRP/master/gfx/men02.gif)
+
 
 To navigate, press the numeric keys on your keyboard.
 
