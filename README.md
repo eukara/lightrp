@@ -1,7 +1,7 @@
 
 Light RolePlay
 ==============
-
+A Quake/QuakeWorld extension
 
 
 -Info-
@@ -28,11 +28,11 @@ You can own and disown doors to make property become yours. You can lock these a
 + Gun Dealer
     Default; Sells weapons to people.
 + Medic
-    Medkit; Heals people against money.
+    Medkit; Heals people for money.
 + Merchant
-    Default; Sells food to people which heals them.
+    Default; Sells stuff to people, including food.
 + Mayor
-    Default; Controls all the city, does lockdowns. Only one player!
+    Default; Controls all of the city, does lockdowns. Only one player!
     
 Default weapons: Keys, Axe
 
