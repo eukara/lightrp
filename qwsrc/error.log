@@ -1,0 +1,31 @@
+warning: rp_hud.qc:21:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:21:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:21:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:21:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:21:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:21:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:28:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_hud.qc:28:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_main.qc:13:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_main.qc:13:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_main.qc:254:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_main.qc:254:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_main.qc:291:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_main.qc:291:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_menu.qc:33:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_menu.qc:33:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_menu.qc:33:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_menu.qc:33:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_menu.qc:33:centerprint: too many parameters, see definition defs.qc(712)
+warning: rp_menu.qc:33:centerprint: too many parameters, see definition defs.qc(712)
+warning: subs.qc:51:SetMovedir: not all control paths return a value
+warning: items.qc:203:droptofloor: Too few parameters. See definition defs.qc(668)
+warning: weapons.qc:123:org redeclared
+warning: client.qc:158:FindIntermission: not all control paths return a value
+warning: client.qc:469:ValidateUser: not all control paths return a value
+warning: client.qc:548:Assignment to constant
+warning: misc.qc:205:No operation performed
+warning: misc.qc:278:droptofloor: Too few parameters. See definition defs.qc(668)
+warning: misc.qc:311:droptofloor: Too few parameters. See definition defs.qc(668)
+warning: misc.qc:364:vec redeclared
+warning: misc.qc:620:makestatic: Too few parameters. See definition defs.qc(705)
